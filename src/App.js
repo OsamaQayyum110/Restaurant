@@ -13,7 +13,7 @@ function App() {
       <HeadlineCards />
       <Food />
       <Category />
-      <Footer />
+      <Footer /> 
   </>
   );
 }
